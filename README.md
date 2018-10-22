@@ -1,6 +1,6 @@
 # la-election-night
 
-Parses election results data published online by the Los Angeles County Registrar-Recorder/County Clerk
+Parse the results file published on election night by the Los Angeles County Registrar-Recorder/County Clerk
 
 ### Get started
 
