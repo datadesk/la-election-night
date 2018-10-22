@@ -1,0 +1,4324 @@
+[
+    {
+        "record_number": "001",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "ASSESSOR",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JEFFREY PRANG",
+                "votes": 833,
+                "vote_pct": 0.1011,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN LOEW",
+                "votes": 1642,
+                "vote_pct": 0.1993,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "KRISH INDRA KUMAR",
+                "votes": 2470,
+                "vote_pct": 0.2999,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "SANDY SUN",
+                "votes": 3292,
+                "vote_pct": 0.3997,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "002",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "GOVERNOR",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JOSH JONES",
+                "votes": 1161,
+                "vote_pct": 0.0026,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "J BRIBIESCA",
+                "votes": 2304,
+                "vote_pct": 0.0052,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GLORIA E LA RIVA",
+                "votes": 3545,
+                "vote_pct": 0.008,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "PETER Y LIU",
+                "votes": 4681,
+                "vote_pct": 0.0106,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "A VILLARAIGOSA",
+                "votes": 5918,
+                "vote_pct": 0.0134,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "YVONNE GIRARD",
+                "votes": 7068,
+                "vote_pct": 0.016,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ROBERT D GRIFFIS",
+                "votes": 8141,
+                "vote_pct": 0.0184,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "SHUBHAM GOEL",
+                "votes": 9403,
+                "vote_pct": 0.0212,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "TRAVIS ALLEN",
+                "votes": 10601,
+                "vote_pct": 0.024,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "AKINYEMI AGBEDE",
+                "votes": 11747,
+                "vote_pct": 0.0265,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JOHNNY WATTENBURG",
+                "votes": 12805,
+                "vote_pct": 0.028900000000000002,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "NICKOLAS WILDSTAR",
+                "votes": 13933,
+                "vote_pct": 0.0315,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "DESMOND SILVEIRA",
+                "votes": 15192,
+                "vote_pct": 0.034300000000000004,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "M SHELLENBERGER",
+                "votes": 16436,
+                "vote_pct": 0.0371,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ZOLTAN ISTVAN",
+                "votes": 17560,
+                "vote_pct": 0.0397,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "C N CARLSON",
+                "votes": 18779,
+                "vote_pct": 0.0424,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "THOMAS J CARES",
+                "votes": 19782,
+                "vote_pct": 0.0447,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN CHIANG",
+                "votes": 21073,
+                "vote_pct": 0.047599999999999996,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN H COX",
+                "votes": 22307,
+                "vote_pct": 0.0504,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "AMANDA RENTERIA",
+                "votes": 23414,
+                "vote_pct": 0.0529,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DELAINE EASTIN",
+                "votes": 24732,
+                "vote_pct": 0.0559,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JEFFREY E TAYLOR",
+                "votes": 25743,
+                "vote_pct": 0.0582,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "KLEMENT TINAJ",
+                "votes": 26935,
+                "vote_pct": 0.060899999999999996,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "HAKAN MIKADO",
+                "votes": 28050,
+                "vote_pct": 0.0634,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "ALBERT C MEZZETTI",
+                "votes": 29286,
+                "vote_pct": 0.0662,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GAVIN NEWSOM",
+                "votes": 30491,
+                "vote_pct": 0.0689,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "R C NEWMAN II",
+                "votes": 31520,
+                "vote_pct": 0.0712,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "003",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "LIEUTENANT GOVERNOR",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JEFF BLEICH",
+                "votes": 746,
+                "vote_pct": 0.0149,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ELENI KOUNALAKIS",
+                "votes": 1499,
+                "vote_pct": 0.029900000000000003,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "C GHARABIKLOU",
+                "votes": 2297,
+                "vote_pct": 0.045899999999999996,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TIM FERREIRA",
+                "votes": 2994,
+                "vote_pct": 0.059800000000000006,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID FENNELL",
+                "votes": 3844,
+                "vote_pct": 0.0768,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DANNY THOMAS",
+                "votes": 4562,
+                "vote_pct": 0.0911,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "COLE HARRIS",
+                "votes": 5297,
+                "vote_pct": 0.1058,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ED HERNANDEZ",
+                "votes": 6065,
+                "vote_pct": 0.1211,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID R HERNANDEZ",
+                "votes": 6880,
+                "vote_pct": 0.1374,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "LYDIA ORTEGA",
+                "votes": 7585,
+                "vote_pct": 0.1515,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "GAYLE MCLAUGHLIN",
+                "votes": 8297,
+                "vote_pct": 0.16570000000000001,
+                "party": "NP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "004",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SECRETARY OF STATE",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ALEX PADILLA",
+                "votes": 488,
+                "vote_pct": 0.0282,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GAIL K LIGHTFOOT",
+                "votes": 954,
+                "vote_pct": 0.055,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "C.T. WEBER",
+                "votes": 1467,
+                "vote_pct": 0.08460000000000001,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "ERIK RYDBERG",
+                "votes": 1880,
+                "vote_pct": 0.1085,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "RAUL RODRIGUEZ JR",
+                "votes": 2432,
+                "vote_pct": 0.14029999999999998,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "MICHAEL FEINSTEIN",
+                "votes": 2894,
+                "vote_pct": 0.16699999999999998,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "RUBEN MAJOR",
+                "votes": 3359,
+                "vote_pct": 0.1938,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MARK P MEUSER",
+                "votes": 3859,
+                "vote_pct": 0.22260000000000002,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "005",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "CONTROLLER",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "K RODITIS",
+                "votes": 73,
+                "vote_pct": 0.17300000000000001,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "MARY LOU FINLEY",
+                "votes": 147,
+                "vote_pct": 0.3483,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "BETTY T YEE",
+                "votes": 202,
+                "vote_pct": 0.47869999999999996,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "006",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "TREASURER",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "VIVEK VISWANATHAN",
+                "votes": 254,
+                "vote_pct": 0.0699,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JACK M GUERRERO",
+                "votes": 468,
+                "vote_pct": 0.1288,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "KEVIN AKIN",
+                "votes": 737,
+                "vote_pct": 0.2028,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "GREG CONLON",
+                "votes": 949,
+                "vote_pct": 0.2611,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "FIONA MA",
+                "votes": 1226,
+                "vote_pct": 0.33740000000000003,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "007",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "ATTORNEY GENERAL",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "DAVE JONES",
+                "votes": 240,
+                "vote_pct": 0.107,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "STEVEN C BAILEY",
+                "votes": 434,
+                "vote_pct": 0.1934,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "XAVIER BECERRA",
+                "votes": 677,
+                "vote_pct": 0.3017,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ERIC EARLY",
+                "votes": 893,
+                "vote_pct": 0.39799999999999996,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "008",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "INSURANCE COMMISSIONER",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "STEVE POIZNER",
+                "votes": 240,
+                "vote_pct": 0.107,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "RICARDO LARA",
+                "votes": 434,
+                "vote_pct": 0.1934,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "NATHALIE HRIZI",
+                "votes": 677,
+                "vote_pct": 0.3017,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "ASIF MAHMOOD",
+                "votes": 893,
+                "vote_pct": 0.39799999999999996,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "009",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER STATE BOARD OF EQUALIZATION-3RD DISTRICT",
+        "precincts_total": 3784,
+        "precincts_reporting": 3784,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BEN PAK",
+                "votes": 411,
+                "vote_pct": 0.0269,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "NANCY PEARLMAN",
+                "votes": 870,
+                "vote_pct": 0.056900000000000006,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DOUG KRIEGEL",
+                "votes": 1271,
+                "vote_pct": 0.08310000000000001,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TONY VAZQUEZ",
+                "votes": 1680,
+                "vote_pct": 0.1099,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "SCOTT SVONKIN",
+                "votes": 2143,
+                "vote_pct": 0.1401,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "CHERYL C TURNER",
+                "votes": 2516,
+                "vote_pct": 0.16449999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MICHEAL O'LEARY",
+                "votes": 2966,
+                "vote_pct": 0.19399999999999998,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "G RICK MARSHALL",
+                "votes": 3434,
+                "vote_pct": 0.22460000000000002,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "010",
+        "district": "01",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER STATE BOARD OF EQUALIZATION-1ST DISTRICT",
+        "precincts_total": 573,
+        "precincts_reporting": 573,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TED GAINES",
+                "votes": 247,
+                "vote_pct": 0.1047,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "CONNIE CONWAY",
+                "votes": 459,
+                "vote_pct": 0.19469999999999998,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID EVANS",
+                "votes": 720,
+                "vote_pct": 0.3053,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "TOM HALLINAN",
+                "votes": 932,
+                "vote_pct": 0.3953,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "011",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "UNITED STATES SENATOR",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "GERALD PLUMMER",
+                "votes": 1176,
+                "vote_pct": 0.0019,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TOM PALZER",
+                "votes": 2333,
+                "vote_pct": 0.0037,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN T PARKER",
+                "votes": 3595,
+                "vote_pct": 0.005699999999999999,
+                "party": "PF",
+                "party_code": ""
+            },
+            {
+                "name": "DOUGLAS H PIERCE",
+                "votes": 4743,
+                "vote_pct": 0.0076,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "HERBERT G PETERS",
+                "votes": 5988,
+                "vote_pct": 0.0096,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JAMES P BRADLEY",
+                "votes": 7158,
+                "vote_pct": 0.011399999999999999,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ARUN K BHUMITRA",
+                "votes": 8250,
+                "vote_pct": 0.0132,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JERRY JOSEPH LAWS",
+                "votes": 9523,
+                "vote_pct": 0.0152,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "PATRICK LITTLE",
+                "votes": 10742,
+                "vote_pct": 0.0172,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "TIM GILDERSLEEVE",
+                "votes": 11898,
+                "vote_pct": 0.019,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "MICHAEL F GIRGIS",
+                "votes": 12979,
+                "vote_pct": 0.0207,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "DON J GRUNDMANN",
+                "votes": 14120,
+                "vote_pct": 0.0226,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "RASH BIHARI GHOSH",
+                "votes": 15393,
+                "vote_pct": 0.0246,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "LING LING SHI",
+                "votes": 16651,
+                "vote_pct": 0.026600000000000002,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN CREW",
+                "votes": 17786,
+                "vote_pct": 0.028399999999999998,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ERIN CRUZ",
+                "votes": 19016,
+                "vote_pct": 0.0304,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DERRICK M REID",
+                "votes": 20034,
+                "vote_pct": 0.032,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "DIANNE FEINSTEIN",
+                "votes": 21353,
+                "vote_pct": 0.0341,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "COLLEEN S FERNALD",
+                "votes": 22599,
+                "vote_pct": 0.0361,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "ADRIENNE N EDWARDS",
+                "votes": 23710,
+                "vote_pct": 0.0379,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "PAUL A TAYLOR",
+                "votes": 25047,
+                "vote_pct": 0.04,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DONNIE O TURNER",
+                "votes": 26090,
+                "vote_pct": 0.0417,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "PAT HARRIS",
+                "votes": 27289,
+                "vote_pct": 0.0436,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ALISON HARTSON",
+                "votes": 28443,
+                "vote_pct": 0.0455,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JASON M HANANIA",
+                "votes": 29661,
+                "vote_pct": 0.047400000000000005,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID HILDEBRAND",
+                "votes": 30888,
+                "vote_pct": 0.049400000000000006,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "LEE OLSON",
+                "votes": 31919,
+                "vote_pct": 0.051,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "ROQUE DE LA FUENTE",
+                "votes": 33186,
+                "vote_pct": 0.053,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "KEVIN DE LEON",
+                "votes": 34365,
+                "vote_pct": 0.054900000000000004,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KEVIN MOTTUS",
+                "votes": 35458,
+                "vote_pct": 0.0567,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID MOORE",
+                "votes": 36697,
+                "vote_pct": 0.058600000000000006,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "MARIO NABLIBA",
+                "votes": 37690,
+                "vote_pct": 0.0602,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "012",
+        "district": "23",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 23RD DISTRICT",
+        "precincts_total": 31,
+        "precincts_reporting": 31,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MARY HELEN BARRO",
+                "votes": 63,
+                "vote_pct": 0.049,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KURTIS WILSON",
+                "votes": 127,
+                "vote_pct": 0.09880000000000001,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "WENDY REED",
+                "votes": 176,
+                "vote_pct": 0.13699999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JAMES DAVIS",
+                "votes": 249,
+                "vote_pct": 0.1938,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "TATIANA MATTA",
+                "votes": 307,
+                "vote_pct": 0.2389,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KEVIN MCCARTHY",
+                "votes": 363,
+                "vote_pct": 0.2825,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "013",
+        "district": "25",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 25TH DISTRICT",
+        "precincts_total": 251,
+        "precincts_reporting": 251,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MARY PALLANT",
+                "votes": 252,
+                "vote_pct": 0.066,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JESS P PHOENIX",
+                "votes": 514,
+                "vote_pct": 0.1346,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "STEVE KNIGHT",
+                "votes": 764,
+                "vote_pct": 0.20010000000000003,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "BRYAN CAFORIO",
+                "votes": 1047,
+                "vote_pct": 0.2742,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KATIE HILL",
+                "votes": 1242,
+                "vote_pct": 0.32520000000000004,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "014",
+        "district": "26",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 26TH DISTRICT",
+        "precincts_total": 6,
+        "precincts_reporting": 6,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JULIA BROWNLEY",
+                "votes": 13,
+                "vote_pct": 0.1057,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JEFFREY D BURUM",
+                "votes": 26,
+                "vote_pct": 0.2114,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ANTONIO SABATO JR",
+                "votes": 32,
+                "vote_pct": 0.2602,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN NELSON",
+                "votes": 52,
+                "vote_pct": 0.4228,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "015",
+        "district": "27",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 27TH DISTRICT",
+        "precincts_total": 309,
+        "precincts_reporting": 309,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BRYAN WITT",
+                "votes": 21,
+                "vote_pct": 0.36210000000000003,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JUDY CHU",
+                "votes": 37,
+                "vote_pct": 0.6379,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "016",
+        "district": "28",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 28TH DISTRICT",
+        "precincts_total": 332,
+        "precincts_reporting": 332,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "SAL GENOVESE",
+                "votes": 10,
+                "vote_pct": 0.1389,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ADAM B SCHIFF",
+                "votes": 24,
+                "vote_pct": 0.3333,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "J J NALBANDIAN",
+                "votes": 38,
+                "vote_pct": 0.5278,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "017",
+        "district": "29",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 29TH DISTRICT",
+        "precincts_total": 238,
+        "precincts_reporting": 238,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BENITO B BERNAL",
+                "votes": 278,
+                "vote_pct": 0.06559999999999999,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOSEPH SHAMMAS",
+                "votes": 541,
+                "vote_pct": 0.1277,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TONY CARDENAS",
+                "votes": 863,
+                "vote_pct": 0.20370000000000002,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JUAN REY",
+                "votes": 1116,
+                "vote_pct": 0.2634,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "ANGELICA M DUENAS",
+                "votes": 1439,
+                "vote_pct": 0.3396,
+                "party": "GRN",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "018",
+        "district": "30",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 30TH DISTRICT",
+        "precincts_total": 317,
+        "precincts_reporting": 317,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JON PELZER",
+                "votes": 37,
+                "vote_pct": 0.09609999999999999,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BRAD SHERMAN",
+                "votes": 77,
+                "vote_pct": 0.2,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RAJI RAB",
+                "votes": 127,
+                "vote_pct": 0.3299,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MARK S REED",
+                "votes": 144,
+                "vote_pct": 0.374,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "019",
+        "district": "32",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 32ND DISTRICT",
+        "precincts_total": 284,
+        "precincts_reporting": 284,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "GRACE F NAPOLITANO",
+                "votes": 2,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "020",
+        "district": "33",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 33RD DISTRICT",
+        "precincts_total": 423,
+        "precincts_reporting": 423,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TED W LIEU",
+                "votes": 96,
+                "vote_pct": 0.16079999999999997,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KENNETH W WRIGHT",
+                "votes": 202,
+                "vote_pct": 0.33840000000000003,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "EMORY P RODGERS",
+                "votes": 299,
+                "vote_pct": 0.5008,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "021",
+        "district": "34",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 34TH DISTRICT",
+        "precincts_total": 234,
+        "precincts_reporting": 234,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JIMMY GOMEZ",
+                "votes": 325,
+                "vote_pct": 0.16920000000000002,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ANGELA E MCARDLE",
+                "votes": 644,
+                "vote_pct": 0.33520000000000005,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "KENNETH MEJIA",
+                "votes": 952,
+                "vote_pct": 0.49560000000000004,
+                "party": "GRN",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "022",
+        "district": "35",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 35TH DISTRICT",
+        "precincts_total": 51,
+        "precincts_reporting": 51,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JOE BACA",
+                "votes": 99,
+                "vote_pct": 0.1664,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "C L VALIENTE",
+                "votes": 196,
+                "vote_pct": 0.32939999999999997,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "NORMA J TORRES",
+                "votes": 300,
+                "vote_pct": 0.5042,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "023",
+        "district": "37",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 37TH DISTRICT",
+        "precincts_total": 357,
+        "precincts_reporting": 357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "KAREN BASS",
+                "votes": 5,
+                "vote_pct": 0.3333,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RON J BASSILIAN",
+                "votes": 10,
+                "vote_pct": 0.6667000000000001,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "024",
+        "district": "38",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 38TH DISTRICT",
+        "precincts_total": 335,
+        "precincts_reporting": 335,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "LINDA T SANCHEZ",
+                "votes": 27,
+                "vote_pct": 0.3857,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RYAN DOWNING",
+                "votes": 43,
+                "vote_pct": 0.6143,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "025",
+        "district": "39",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 39TH DISTRICT",
+        "precincts_total": 94,
+        "precincts_reporting": 94,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "SAM JAMMAL",
+                "votes": 37,
+                "vote_pct": 0.0062,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "PHIL LIBERATORE",
+                "votes": 79,
+                "vote_pct": 0.013300000000000001,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "SUZI PARK LEGGETT",
+                "votes": 123,
+                "vote_pct": 0.0206,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "HERBERT H LEE",
+                "votes": 149,
+                "vote_pct": 0.025,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "YOUNG KIM",
+                "votes": 203,
+                "vote_pct": 0.0341,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "STEVEN C VARGAS",
+                "votes": 234,
+                "vote_pct": 0.0393,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "TED M ALEMAYHU",
+                "votes": 286,
+                "vote_pct": 0.048,
+                "party": "AI",
+                "party_code": ""
+            },
+            {
+                "name": "SOPHIA J ALEXANDER",
+                "votes": 312,
+                "vote_pct": 0.052300000000000006,
+                "party": "AI",
+                "party_code": ""
+            },
+            {
+                "name": "ANDREW SAREGA",
+                "votes": 340,
+                "vote_pct": 0.057,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "KAREN LEE SCHATZLE",
+                "votes": 387,
+                "vote_pct": 0.0649,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "GIL CISNEROS",
+                "votes": 439,
+                "vote_pct": 0.0736,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "STEVE COX",
+                "votes": 472,
+                "vote_pct": 0.07919999999999999,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN J CULLUM",
+                "votes": 487,
+                "vote_pct": 0.0817,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "MAI KHANH TRAN",
+                "votes": 534,
+                "vote_pct": 0.08960000000000001,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ANDY THORBURN",
+                "votes": 585,
+                "vote_pct": 0.0981,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BOB HUFF",
+                "votes": 639,
+                "vote_pct": 0.1072,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "SHAWN NELSON",
+                "votes": 655,
+                "vote_pct": 0.1099,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "026",
+        "district": "40",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 40TH DISTRICT",
+        "precincts_total": 240,
+        "precincts_reporting": 240,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "R CORTES BARRAGAN",
+                "votes": 96,
+                "vote_pct": 0.331,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "L ROYBAL-ALLARD",
+                "votes": 194,
+                "vote_pct": 0.669,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "027",
+        "district": "43",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 43RD DISTRICT",
+        "precincts_total": 339,
+        "precincts_reporting": 339,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MAXINE WATERS",
+                "votes": 173,
+                "vote_pct": 0.0636,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MIGUEL A ZUNIGA",
+                "votes": 368,
+                "vote_pct": 0.1354,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "FRANK T DEMARTINI",
+                "votes": 561,
+                "vote_pct": 0.2064,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "EDWIN P DUTERTE",
+                "votes": 711,
+                "vote_pct": 0.2616,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "OMAR NAVARRO",
+                "votes": 905,
+                "vote_pct": 0.33299999999999996,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "028",
+        "district": "44",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 44TH DISTRICT",
+        "precincts_total": 314,
+        "precincts_reporting": 314,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "NANETTE D BARRAGAN",
+                "votes": 94,
+                "vote_pct": 0.1043,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "AJA L BROWN",
+                "votes": 182,
+                "vote_pct": 0.20199999999999999,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JAZMINA SAAVEDRA",
+                "votes": 272,
+                "vote_pct": 0.3019,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "STACEY DASH",
+                "votes": 353,
+                "vote_pct": 0.3918,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "029",
+        "district": "47",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "U.S. REPRESENTATIVE 47TH DISTRICT",
+        "precincts_total": 202,
+        "precincts_reporting": 202,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JOHN BRISCOE",
+                "votes": 11,
+                "vote_pct": 0.1864,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ALAN LOWENTHAL",
+                "votes": 17,
+                "vote_pct": 0.28809999999999997,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID M CLIFFORD",
+                "votes": 31,
+                "vote_pct": 0.5254,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "030",
+        "district": "18",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 18TH DISTRICT",
+        "precincts_total": 357,
+        "precincts_reporting": 357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BRANDON SAARIO",
+                "votes": 6,
+                "vote_pct": 0.1304,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ROGER JAMES SAYEGH",
+                "votes": 9,
+                "vote_pct": 0.1957,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BOB HERTZBERG",
+                "votes": 11,
+                "vote_pct": 0.2391,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RUDY MELENDEZ",
+                "votes": 20,
+                "vote_pct": 0.43479999999999996,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "031",
+        "district": "22",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 22ND DISTRICT",
+        "precincts_total": 371,
+        "precincts_reporting": 371,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MONICA GARCIA",
+                "votes": 229,
+                "vote_pct": 0.0992,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RUBEN SIERRA",
+                "votes": 474,
+                "vote_pct": 0.2054,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "SUSAN RUBIO",
+                "votes": 703,
+                "vote_pct": 0.3046,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MIKE ENG",
+                "votes": 902,
+                "vote_pct": 0.3908,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "032",
+        "district": "24",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 24TH DISTRICT",
+        "precincts_total": 320,
+        "precincts_reporting": 320,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "PETER CHOI",
+                "votes": 21,
+                "vote_pct": 0.35590000000000005,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MARIA ELENA DURAZO",
+                "votes": 38,
+                "vote_pct": 0.6441,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "033",
+        "district": "26",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 26TH DISTRICT",
+        "precincts_total": 543,
+        "precincts_reporting": 543,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BARON BRUNO",
+                "votes": 34,
+                "vote_pct": 0.14980000000000002,
+                "party": "NP",
+                "party_code": ""
+            },
+            {
+                "name": "BEN ALLEN",
+                "votes": 75,
+                "vote_pct": 0.33039999999999997,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MARK MATTHEW HERD",
+                "votes": 118,
+                "vote_pct": 0.5197999999999999,
+                "party": "LIB",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "034",
+        "district": "30",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 30TH DISTRICT",
+        "precincts_total": 430,
+        "precincts_reporting": 430,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "HOLLY J MITCHELL",
+                "votes": 43,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "035",
+        "district": "32",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 32ND DISTRICT",
+        "precincts_total": 421,
+        "precincts_reporting": 421,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BOB J ARCHULETA",
+                "votes": 70,
+                "vote_pct": 0.0197,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RUDY BERMUDEZ",
+                "votes": 144,
+                "vote_pct": 0.0404,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ION SAREGA",
+                "votes": 187,
+                "vote_pct": 0.0525,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "VICKY SANTANA",
+                "votes": 272,
+                "vote_pct": 0.0764,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "VIVIAN ROMERO",
+                "votes": 320,
+                "vote_pct": 0.08990000000000001,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ALI S TAJ",
+                "votes": 380,
+                "vote_pct": 0.1067,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RITA TOPALIAN",
+                "votes": 457,
+                "vote_pct": 0.1284,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID CASTELLANOS",
+                "votes": 493,
+                "vote_pct": 0.13849999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TONY MENDOZA",
+                "votes": 597,
+                "vote_pct": 0.1677,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "VANESSA DELGADO",
+                "votes": 640,
+                "vote_pct": 0.17980000000000002,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "036",
+        "district": "34",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 34TH DISTRICT",
+        "precincts_total": 34,
+        "precincts_reporting": 34,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JESTIN L SAMSON",
+                "votes": 1,
+                "vote_pct": 0.0345,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "AKASH A HAWKINS",
+                "votes": 6,
+                "vote_pct": 0.2069,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TOM UMBERG",
+                "votes": 9,
+                "vote_pct": 0.3103,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JANET NGUYEN",
+                "votes": 13,
+                "vote_pct": 0.4483,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "037",
+        "record_type": "measure",
+        "title": "SENATE DISTRICT 29 RECALL MEASURE",
+        "precincts_total": 80,
+        "precincts_reporting": 80,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 58,
+                "vote_pct": 0.3295,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 118,
+                "vote_pct": 0.6705,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "038",
+        "district": "20",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 20TH DISTRICT",
+        "precincts_total": 53,
+        "precincts_reporting": 53,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "PAUL VINCENT AVILA",
+                "votes": 106,
+                "vote_pct": 0.16879999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MATTHEW MUNSON",
+                "votes": 205,
+                "vote_pct": 0.3264,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "CONNIE LEYVA",
+                "votes": 317,
+                "vote_pct": 0.5047999999999999,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "039",
+        "district": "29",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SENATE DISTRICT 29 SPECIAL RECALL ELECTION",
+        "precincts_total": 80,
+        "precincts_reporting": 80,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "KEVIN CARR",
+                "votes": 58,
+                "vote_pct": 0.044000000000000004,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JOSEPH CHO",
+                "votes": 118,
+                "vote_pct": 0.0895,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "LING LING CHANG",
+                "votes": 197,
+                "vote_pct": 0.1494,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "BRUCE WHITAKER",
+                "votes": 244,
+                "vote_pct": 0.185,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOSH FERGUSON",
+                "votes": 330,
+                "vote_pct": 0.2502,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GEORGE C. SHEN",
+                "votes": 372,
+                "vote_pct": 0.282,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "040",
+        "district": "32",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "STATE SENATOR 32ND DIST TERM ENDS 12/18",
+        "precincts_total": 421,
+        "precincts_reporting": 421,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TONY MENDOZA",
+                "votes": 70,
+                "vote_pct": 0.016399999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ALI S TAJ",
+                "votes": 144,
+                "vote_pct": 0.0336,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RITA TOPALIAN",
+                "votes": 187,
+                "vote_pct": 0.0437,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN PAUL DRAYER",
+                "votes": 272,
+                "vote_pct": 0.0636,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "VANESSA DELGADO",
+                "votes": 320,
+                "vote_pct": 0.0748,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DARREN J GENDRON",
+                "votes": 380,
+                "vote_pct": 0.0888,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BOB J ARCHULETA",
+                "votes": 457,
+                "vote_pct": 0.10679999999999999,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "VICKY SANTANA",
+                "votes": 493,
+                "vote_pct": 0.1152,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ION SAREGA",
+                "votes": 597,
+                "vote_pct": 0.13949999999999999,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "VIVIAN ROMERO",
+                "votes": 640,
+                "vote_pct": 0.1495,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RUDY BERMUDEZ",
+                "votes": 720,
+                "vote_pct": 0.16820000000000002,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "041",
+        "district": "36",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 36TH DISTRICT",
+        "precincts_total": 162,
+        "precincts_reporting": 162,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "STEVE FOX",
+                "votes": 75,
+                "vote_pct": 0.3348,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TOM LACKEY",
+                "votes": 149,
+                "vote_pct": 0.6652,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "042",
+        "district": "38",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 38TH DISTRICT",
+        "precincts_total": 158,
+        "precincts_reporting": 158,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "DANTE ACOSTA",
+                "votes": 233,
+                "vote_pct": 0.3348,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "CHRISTY SMITH",
+                "votes": 463,
+                "vote_pct": 0.6652,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "043",
+        "district": "39",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 39TH DISTRICT",
+        "precincts_total": 173,
+        "precincts_reporting": 173,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "PATREA PATRICK",
+                "votes": 165,
+                "vote_pct": 0.050199999999999995,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RICARDO A BENITEZ",
+                "votes": 288,
+                "vote_pct": 0.0875,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "PATTY LOPEZ",
+                "votes": 481,
+                "vote_pct": 0.1462,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ANTONIO SANCHEZ",
+                "votes": 611,
+                "vote_pct": 0.1857,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BONNIE CORWIN",
+                "votes": 795,
+                "vote_pct": 0.2416,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "LUZ MARIA RIVAS",
+                "votes": 950,
+                "vote_pct": 0.2888,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "044",
+        "district": "41",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 41ST DISTRICT",
+        "precincts_total": 172,
+        "precincts_reporting": 172,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "CHRIS HOLDEN",
+                "votes": 20,
+                "vote_pct": 0.1724,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KENNETH ROTTER",
+                "votes": 37,
+                "vote_pct": 0.319,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ALAN S REYNOLDS",
+                "votes": 59,
+                "vote_pct": 0.5085999999999999,
+                "party": "NP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "045",
+        "district": "43",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 43RD DISTRICT",
+        "precincts_total": 213,
+        "precincts_reporting": 213,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "LAURA FRIEDMAN",
+                "votes": 51,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "046",
+        "district": "45",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 45TH DISTRICT",
+        "precincts_total": 191,
+        "precincts_reporting": 191,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JEFF BORNSTEIN",
+                "votes": 46,
+                "vote_pct": 0.0344,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RAY BISHOP",
+                "votes": 98,
+                "vote_pct": 0.0733,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "DANIEL BRIN",
+                "votes": 148,
+                "vote_pct": 0.1107,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JESSE GABRIEL",
+                "votes": 185,
+                "vote_pct": 0.1384,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "T ROBBINS KASSON",
+                "votes": 248,
+                "vote_pct": 0.1855,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ANKUR PATEL",
+                "votes": 265,
+                "vote_pct": 0.19820000000000002,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JUSTIN M CLARK",
+                "votes": 347,
+                "vote_pct": 0.2595,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "047",
+        "district": "46",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 46TH DISTRICT",
+        "precincts_total": 192,
+        "precincts_reporting": 192,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ROXANNE B HOGE",
+                "votes": 152,
+                "vote_pct": 0.32409999999999994,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ADRIN NAZARIAN",
+                "votes": 317,
+                "vote_pct": 0.6759000000000001,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "048",
+        "district": "48",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 48TH DISTRICT",
+        "precincts_total": 197,
+        "precincts_reporting": 197,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BLANCA E RUBIO",
+                "votes": 227,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "049",
+        "district": "49",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 49TH DISTRICT",
+        "precincts_total": 180,
+        "precincts_reporting": 180,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BURTON BRINK",
+                "votes": 147,
+                "vote_pct": 0.3411,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "ED CHAU",
+                "votes": 284,
+                "vote_pct": 0.6589,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "050",
+        "district": "50",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 50TH DISTRICT",
+        "precincts_total": 289,
+        "precincts_reporting": 289,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "RICHARD BLOOM",
+                "votes": 193,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "051",
+        "district": "51",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 51ST DISTRICT",
+        "precincts_total": 187,
+        "precincts_reporting": 187,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "WENDY CARRILLO",
+                "votes": 56,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "052",
+        "district": "52",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 52ND DISTRICT",
+        "precincts_total": 53,
+        "precincts_reporting": 53,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BEN W GIBBINS",
+                "votes": 106,
+                "vote_pct": 0.10339999999999999,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "FRANK C GUZMAN",
+                "votes": 205,
+                "vote_pct": 0.2,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "TONI HOLLE",
+                "votes": 317,
+                "vote_pct": 0.3093,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "FREDDIE RODRIGUEZ",
+                "votes": 397,
+                "vote_pct": 0.3873,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "053",
+        "district": "53",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 53RD DISTRICT",
+        "precincts_total": 132,
+        "precincts_reporting": 132,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "KEVIN H JANG",
+                "votes": 75,
+                "vote_pct": 0.0907,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MICHAEL A LEWIS",
+                "votes": 162,
+                "vote_pct": 0.1959,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "MIGUEL SANTIAGO",
+                "votes": 244,
+                "vote_pct": 0.295,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RAE E HENRY",
+                "votes": 346,
+                "vote_pct": 0.41840000000000005,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "054",
+        "district": "54",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 54TH DISTRICT",
+        "precincts_total": 248,
+        "precincts_reporting": 248,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TEPRING M PIQUADO",
+                "votes": 53,
+                "vote_pct": 0.042300000000000004,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "LAMAR LYONS",
+                "votes": 121,
+                "vote_pct": 0.0966,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "SYDNEY K KAMLAGER",
+                "votes": 184,
+                "vote_pct": 0.147,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GLEN RATCLIFF",
+                "votes": 247,
+                "vote_pct": 0.1973,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "BREON D HOLLIE",
+                "votes": 298,
+                "vote_pct": 0.23800000000000002,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "STEVE DUNWOODY",
+                "votes": 349,
+                "vote_pct": 0.2788,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "055",
+        "district": "55",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 55TH DISTRICT",
+        "precincts_total": 79,
+        "precincts_reporting": 79,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MELISSA FAZLI",
+                "votes": 58,
+                "vote_pct": 0.061200000000000004,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "GREGG D FRITCHLE",
+                "votes": 118,
+                "vote_pct": 0.1246,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JAMES G GERBUS",
+                "votes": 197,
+                "vote_pct": 0.20800000000000002,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "PHILLIP CHEN",
+                "votes": 244,
+                "vote_pct": 0.2577,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "SCOTT LEBDA",
+                "votes": 330,
+                "vote_pct": 0.34850000000000003,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "056",
+        "district": "57",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 57TH DISTRICT",
+        "precincts_total": 226,
+        "precincts_reporting": 226,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "OSCAR J LLAMAS",
+                "votes": 147,
+                "vote_pct": 0.0696,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JUSTIN J VALERO",
+                "votes": 293,
+                "vote_pct": 0.1387,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "IAN C CALDERON",
+                "votes": 389,
+                "vote_pct": 0.18420000000000003,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "BLAKE CARTER",
+                "votes": 584,
+                "vote_pct": 0.27649999999999997,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "JESSICA MARTINEZ",
+                "votes": 699,
+                "vote_pct": 0.331,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "057",
+        "district": "58",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 58TH DISTRICT",
+        "precincts_total": 213,
+        "precincts_reporting": 213,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "CRISTINA GARCIA",
+                "votes": 138,
+                "vote_pct": 0.0275,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MIGUEL A ALVARADO",
+                "votes": 271,
+                "vote_pct": 0.0541,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "IVAN ALTAMIRANO",
+                "votes": 428,
+                "vote_pct": 0.08539999999999999,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "PEDRO ACEITUNO",
+                "votes": 558,
+                "vote_pct": 0.11130000000000001,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "KARLA V SALAZAR",
+                "votes": 698,
+                "vote_pct": 0.1392,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MIKE SIMPFENDERFER",
+                "votes": 844,
+                "vote_pct": 0.1684,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JOHN PAUL DRAYER",
+                "votes": 960,
+                "vote_pct": 0.19149999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "FRINE MEDRANO",
+                "votes": 1116,
+                "vote_pct": 0.22260000000000002,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "058",
+        "district": "59",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 59TH DISTRICT",
+        "precincts_total": 170,
+        "precincts_reporting": 170,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "R JONES-SAWYER",
+                "votes": 49,
+                "vote_pct": 0.3475,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "L HAGAN-MORGAN",
+                "votes": 92,
+                "vote_pct": 0.6525,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "059",
+        "district": "62",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 62ND DISTRICT",
+        "precincts_total": 257,
+        "precincts_reporting": 257,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "AUTUMN BURKE",
+                "votes": 52,
+                "vote_pct": 0.3421,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "AL L HERNANDEZ",
+                "votes": 100,
+                "vote_pct": 0.6579,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "060",
+        "district": "63",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 63RD DISTRICT",
+        "precincts_total": 177,
+        "precincts_reporting": 177,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ANTHONY RENDON",
+                "votes": 129,
+                "vote_pct": 0.1753,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "MARIA D ESTRADA",
+                "votes": 235,
+                "vote_pct": 0.3193,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ADAM JOSHUA MILLER",
+                "votes": 372,
+                "vote_pct": 0.5054,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "061",
+        "district": "64",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 64TH DISTRICT",
+        "precincts_total": 221,
+        "precincts_reporting": 221,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "MIKE A GIPSON",
+                "votes": 81,
+                "vote_pct": 1.0,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "062",
+        "district": "66",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 66TH DISTRICT",
+        "precincts_total": 231,
+        "precincts_reporting": 231,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "CANEY ARNOLD",
+                "votes": 21,
+                "vote_pct": 0.1522,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "FRANK A SCOTTO",
+                "votes": 48,
+                "vote_pct": 0.3478,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "AL MURATSUCHI",
+                "votes": 69,
+                "vote_pct": 0.5,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "063",
+        "district": "70",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 70TH DISTRICT",
+        "precincts_total": 230,
+        "precincts_reporting": 230,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "RACHEL A BRUHNKE",
+                "votes": 63,
+                "vote_pct": 0.1013,
+                "party": "GRN",
+                "party_code": ""
+            },
+            {
+                "name": "ELLIOT R GONZALES",
+                "votes": 128,
+                "vote_pct": 0.20579999999999998,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "HONOR ROBSON",
+                "votes": 177,
+                "vote_pct": 0.2846,
+                "party": "LIB",
+                "party_code": ""
+            },
+            {
+                "name": "PATRICK O'DONNELL",
+                "votes": 254,
+                "vote_pct": 0.40840000000000004,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "064",
+        "district": "45",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 45TH DIST TERM ENDS 12/18",
+        "precincts_total": 191,
+        "precincts_reporting": 191,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JUSTIN M CLARK",
+                "votes": 46,
+                "vote_pct": 0.3194,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JESSE GABRIEL",
+                "votes": 98,
+                "vote_pct": 0.6806,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "065",
+        "district": "39",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 39TH DIST TERM ENDS 12/18",
+        "precincts_total": 173,
+        "precincts_reporting": 173,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "LUZ MARIA RIVAS",
+                "votes": 165,
+                "vote_pct": 0.3642,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "RICARDO A BENITEZ",
+                "votes": 288,
+                "vote_pct": 0.6358,
+                "party": "REP",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "066",
+        "district": "44",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "MEMBER OF THE ASSEMBLY 44TH DISTRICT",
+        "precincts_total": 6,
+        "precincts_reporting": 6,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "R BALDWIN-KENNEDY",
+                "votes": 13,
+                "vote_pct": 0.18309999999999998,
+                "party": "REP",
+                "party_code": ""
+            },
+            {
+                "name": "JACQUI IRWIN",
+                "votes": 26,
+                "vote_pct": 0.36619999999999997,
+                "party": "DEM",
+                "party_code": ""
+            },
+            {
+                "name": "ROBERT ZELINSKY",
+                "votes": 32,
+                "vote_pct": 0.4507,
+                "party": "DEM",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "067",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SUPERINTENDENT OF PUBLIC INSTRUCTION",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "LILY PLOSKI",
+                "votes": 1133,
+                "vote_pct": 0.10189999999999999,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "STEVEN IRELAND",
+                "votes": 2208,
+                "vote_pct": 0.1986,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "TONY K THURMOND",
+                "votes": 3361,
+                "vote_pct": 0.30219999999999997,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MARSHALL TUCK",
+                "votes": 4418,
+                "vote_pct": 0.3973,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "068",
+        "record_type": "measure",
+        "title": "STATE MEASURE 68",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 254,
+                "vote_pct": 0.34840000000000004,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 475,
+                "vote_pct": 0.6516,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "069",
+        "record_type": "measure",
+        "title": "STATE MEASURE 69",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 254,
+                "vote_pct": 0.34840000000000004,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 475,
+                "vote_pct": 0.6516,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "070",
+        "record_type": "measure",
+        "title": "STATE MEASURE 70",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 254,
+                "vote_pct": 0.34840000000000004,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 475,
+                "vote_pct": 0.6516,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "071",
+        "record_type": "measure",
+        "title": "STATE MEASURE 71",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 254,
+                "vote_pct": 0.34840000000000004,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 475,
+                "vote_pct": 0.6516,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "072",
+        "record_type": "measure",
+        "title": "STATE MEASURE 72",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 254,
+                "vote_pct": 0.34840000000000004,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 475,
+                "vote_pct": 0.6516,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "073",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SHERIFF",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ROBERT LINDSEY",
+                "votes": 955,
+                "vote_pct": 0.1685,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ALEX VILLANUEVA",
+                "votes": 1880,
+                "vote_pct": 0.3317,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "JIM MCDONNELL",
+                "votes": 2833,
+                "vote_pct": 0.49979999999999997,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "074",
+        "district": "01",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SUPERVISOR-1ST DISTRICT",
+        "precincts_total": 756,
+        "precincts_reporting": 756,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "HILDA L SOLIS",
+                "votes": 224,
+                "vote_pct": 1.0,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "075",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "SUPERVISOR-3RD DISTRICT",
+        "precincts_total": 867,
+        "precincts_reporting": 867,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ERIC PREVEN",
+                "votes": 223,
+                "vote_pct": 0.1725,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "SHEILA KUEHL",
+                "votes": 408,
+                "vote_pct": 0.3155,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "DANIEL G GLASER",
+                "votes": 662,
+                "vote_pct": 0.512,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "076",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 113",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JAVIER PEREZ",
+                "votes": 1105,
+                "vote_pct": 0.1696,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "STEVEN SCHREINER",
+                "votes": 2157,
+                "vote_pct": 0.331,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MICHAEL P RIBONS",
+                "votes": 3255,
+                "vote_pct": 0.49950000000000006,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "077",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 118",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TROY DAVIS",
+                "votes": 811,
+                "vote_pct": 0.34149999999999997,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "DAVID D DIAMOND",
+                "votes": 1564,
+                "vote_pct": 0.6585,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "078",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 146",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "EMILY T SPEAR",
+                "votes": 811,
+                "vote_pct": 0.34149999999999997,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ARMANDO DURON",
+                "votes": 1564,
+                "vote_pct": 0.6585,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "079",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 16",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "HUBERT S YUN",
+                "votes": 1004,
+                "vote_pct": 0.1686,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "PATRICIA HUNTER",
+                "votes": 1972,
+                "vote_pct": 0.3311,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "SYDNE JANE MICHEL",
+                "votes": 2980,
+                "vote_pct": 0.5003,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "080",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 20",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "WENDY SEGALL",
+                "votes": 890,
+                "vote_pct": 0.3381,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MARY ANN ESCALANTE",
+                "votes": 1742,
+                "vote_pct": 0.6618999999999999,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "081",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 4",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "A VERONICA SAUCEDA",
+                "votes": 1009,
+                "vote_pct": 0.16899999999999998,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MATTHEW SCHONBRUN",
+                "votes": 1975,
+                "vote_pct": 0.3308,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ALFRED A COLETTA",
+                "votes": 2986,
+                "vote_pct": 0.5002,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "082",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 60",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TONY J CHO",
+                "votes": 961,
+                "vote_pct": 0.16879999999999998,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "BEN COLELLA",
+                "votes": 1885,
+                "vote_pct": 0.3311,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "HOLLY L HANCOCK",
+                "votes": 2848,
+                "vote_pct": 0.5002,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "083",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 63",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ANTHONY LEWIS",
+                "votes": 880,
+                "vote_pct": 0.3381,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MALCOLM H MACKEY",
+                "votes": 1723,
+                "vote_pct": 0.6618999999999999,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "084",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 67",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "DENNIS P VINCENT",
+                "votes": 1105,
+                "vote_pct": 0.1696,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "MARIA L ARMENDARIZ",
+                "votes": 2157,
+                "vote_pct": 0.331,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ONICA VALLE COLE",
+                "votes": 3255,
+                "vote_pct": 0.49950000000000006,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "085",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 71",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "DAVID A BERGER",
+                "votes": 811,
+                "vote_pct": 0.34149999999999997,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "DANIELLE R GIBBONS",
+                "votes": 1564,
+                "vote_pct": 0.6585,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "086",
+        "district": "03",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "JUDGE-SUPERIOR COURT OFFICE NO 126",
+        "precincts_total": 4357,
+        "precincts_reporting": 4357,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "RENE C GILBERTSON",
+                "votes": 1105,
+                "vote_pct": 0.1696,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "SHLOMO FRIEMAN",
+                "votes": 2157,
+                "vote_pct": 0.331,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "KEN FULLER",
+                "votes": 3255,
+                "vote_pct": 0.49950000000000006,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "087",
+        "record_type": "measure",
+        "title": "BURBANK CITY SPECIAL MUNI MEASURE T",
+        "precincts_total": 48,
+        "precincts_reporting": 48,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 4,
+                "vote_pct": 0.2667,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 11,
+                "vote_pct": 0.7333,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "088",
+        "record_type": "measure",
+        "title": "BURBANK CITY SPECIAL MUNI MEASURE V",
+        "precincts_total": 48,
+        "precincts_reporting": 48,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 4,
+                "vote_pct": 0.2667,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 11,
+                "vote_pct": 0.7333,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "089",
+        "record_type": "measure",
+        "title": "BURBANK CITY SPECIAL MUNI MEASURE Y",
+        "precincts_total": 48,
+        "precincts_reporting": 48,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 4,
+                "vote_pct": 0.2667,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 11,
+                "vote_pct": 0.7333,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "090",
+        "record_type": "measure",
+        "title": "CLAREMONT CITY SPEC MUNI MEASURE SC",
+        "precincts_total": 13,
+        "precincts_reporting": 13,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 29,
+                "vote_pct": 0.34119999999999995,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 56,
+                "vote_pct": 0.6587999999999999,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "091",
+        "record_type": "measure",
+        "title": "GLENDALE CITY SPEC MUNI MEASURE P",
+        "precincts_total": 80,
+        "precincts_reporting": 80,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 156,
+                "vote_pct": 0.3467,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 294,
+                "vote_pct": 0.6533,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "092",
+        "record_type": "measure",
+        "title": "HUNTINGTON PARK CITY SPEC MEASURE S",
+        "precincts_total": 16,
+        "precincts_reporting": 16,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 27,
+                "vote_pct": 0.32530000000000003,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 56,
+                "vote_pct": 0.6747,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "093",
+        "record_type": "measure",
+        "title": "INGLEWOOD CITY SPEC MUNI MEASURE SE",
+        "precincts_total": 62,
+        "precincts_reporting": 62,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 6,
+                "vote_pct": 0.5,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 6,
+                "vote_pct": 0.5,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "094",
+        "record_type": "measure",
+        "title": "LONG BEACH CITY SPEC MUNI MEASURE M",
+        "precincts_total": 221,
+        "precincts_reporting": 221,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 1,
+                "vote_pct": 0.1429,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 6,
+                "vote_pct": 0.8571,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "095",
+        "record_type": "measure",
+        "title": "MONROVIA CITY SPECIAL MUNI MEASURE TT",
+        "precincts_total": 17,
+        "precincts_reporting": 17,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 8,
+                "vote_pct": 0.44439999999999996,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 10,
+                "vote_pct": 0.5556,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "096",
+        "record_type": "measure",
+        "title": "PASADENA CITY SPECIAL MUNI MEASURE AA",
+        "precincts_total": 60,
+        "precincts_reporting": 60,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 51,
+                "vote_pct": 0.3248,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 106,
+                "vote_pct": 0.6751999999999999,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "097",
+        "record_type": "measure",
+        "title": "PASADENA CITY SPECIAL MUNI MEASURE CC",
+        "precincts_total": 60,
+        "precincts_reporting": 60,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 51,
+                "vote_pct": 0.3248,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 106,
+                "vote_pct": 0.6751999999999999,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "098",
+        "record_type": "measure",
+        "title": "PASADENA CITY SPECIAL MUNI MEASURE DD",
+        "precincts_total": 60,
+        "precincts_reporting": 60,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 51,
+                "vote_pct": 0.3248,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 106,
+                "vote_pct": 0.6751999999999999,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "099",
+        "district": "RL",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "ROLLING HILLS EST CITY GEN COUNCILMEMBER",
+        "precincts_total": 6,
+        "precincts_reporting": 6,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "STEVEN ZUCKERMAN",
+                "votes": 11,
+                "vote_pct": 0.1447,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "BRITT HUFF",
+                "votes": 25,
+                "vote_pct": 0.3289,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ROBERT MEDAWAR",
+                "votes": 40,
+                "vote_pct": 0.5263,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "100",
+        "record_type": "measure",
+        "title": "ROLLING HILLS EST CITY SPC MEASURE A",
+        "precincts_total": 6,
+        "precincts_reporting": 6,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 11,
+                "vote_pct": 0.3056,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 25,
+                "vote_pct": 0.6944,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "101",
+        "record_type": "measure",
+        "title": "TEMPLE CITY SPECIAL MUNI MEASURE VP",
+        "precincts_total": 14,
+        "precincts_reporting": 14,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 33,
+                "vote_pct": 0.35869999999999996,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 59,
+                "vote_pct": 0.6413,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "102",
+        "district": "TR",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "TORRANCE CITY GEN MUNI MAYOR",
+        "precincts_total": 67,
+        "precincts_reporting": 67,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "TOM BREWER",
+                "votes": 58,
+                "vote_pct": 0.17059999999999997,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "RON RIGGS",
+                "votes": 111,
+                "vote_pct": 0.3265,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "PAT FUREY",
+                "votes": 171,
+                "vote_pct": 0.5029,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "103",
+        "district": "TR",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "TORRANCE CITY GEN MUNI COUNCILMEMBER",
+        "precincts_total": 67,
+        "precincts_reporting": 67,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "JIMMY GOW",
+                "votes": 58,
+                "vote_pct": 0.0487,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "TIM GOODRICH",
+                "votes": 111,
+                "vote_pct": 0.0932,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "KURT WEIDEMAN",
+                "votes": 171,
+                "vote_pct": 0.1436,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "BILL SUTHERLAND",
+                "votes": 239,
+                "vote_pct": 0.2007,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "GEORGE CHEN",
+                "votes": 282,
+                "vote_pct": 0.2368,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "AURELIO MATTUCCI",
+                "votes": 330,
+                "vote_pct": 0.2771,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "104",
+        "district": "TR",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "TORRANCE CITY GEN MUNI CITY CLERK",
+        "precincts_total": 67,
+        "precincts_reporting": 67,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "REBECCA POIRIER",
+                "votes": 58,
+                "vote_pct": 1.0,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "105",
+        "district": "TR",
+        "division": "",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "TORRANCE CITY GEN MUNI CITY TREASURER",
+        "precincts_total": 67,
+        "precincts_reporting": 67,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "DANA CORTEZ",
+                "votes": 58,
+                "vote_pct": 1.0,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "106",
+        "record_type": "measure",
+        "title": "BEVERLY HILLS UNIFIED SPC MEASURE BH",
+        "precincts_total": 21,
+        "precincts_reporting": 21,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 39,
+                "vote_pct": 0.3223,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 82,
+                "vote_pct": 0.6777,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "107",
+        "district": "28",
+        "division": "1",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "PASADENA AREA COMM COLLEGE GOV BD MEMBER TR AREA 1",
+        "precincts_total": 44,
+        "precincts_reporting": 44,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "ROSS S SELVIDGE",
+                "votes": 4,
+                "vote_pct": 0.4,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "SANDRA CHEN LAU",
+                "votes": 6,
+                "vote_pct": 0.6,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "108",
+        "district": "28",
+        "division": "3",
+        "party_code": "",
+        "record_type": "contest",
+        "title": "PASADENA AREA COMM COLLEGE GOV BD MEMBER TR AREA 3",
+        "precincts_total": 22,
+        "precincts_reporting": 22,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "BERLINDA J BROWN",
+                "votes": 38,
+                "vote_pct": 0.3519,
+                "party": "",
+                "party_code": ""
+            },
+            {
+                "name": "ROGER E MARTINEZ",
+                "votes": 70,
+                "vote_pct": 0.6481,
+                "party": "",
+                "party_code": ""
+            }
+        ]
+    },
+    {
+        "record_number": "109",
+        "record_type": "measure",
+        "title": "HAWTHORNE SCHOOL SPC MEASURE HSD",
+        "precincts_total": 29,
+        "precincts_reporting": 29,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 3,
+                "vote_pct": 0.5,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 3,
+                "vote_pct": 0.5,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "110",
+        "record_type": "measure",
+        "title": "LITTLE LAKE CTY SCH SPC MEASURE LL",
+        "precincts_total": 18,
+        "precincts_reporting": 18,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 24,
+                "vote_pct": 0.31579999999999997,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 52,
+                "vote_pct": 0.6842,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "111",
+        "record_type": "measure",
+        "title": "MANHATTAN BEACH USD SPEC MEASURE MB",
+        "precincts_total": 22,
+        "precincts_reporting": 22,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 42,
+                "vote_pct": 0.3182,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 90,
+                "vote_pct": 0.6818000000000001,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "112",
+        "record_type": "measure",
+        "title": "WISEBURN USD SPECIAL MEASURE W",
+        "precincts_total": 14,
+        "precincts_reporting": 14,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 3,
+                "vote_pct": 0.3333,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 6,
+                "vote_pct": 0.6667000000000001,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "113",
+        "record_type": "measure",
+        "title": "INGLEWOOD UNIFIED SCH SPC MEASURE ID",
+        "precincts_total": 63,
+        "precincts_reporting": 63,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 18,
+                "vote_pct": 0.38299999999999995,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 29,
+                "vote_pct": 0.617,
+                "party": ""
+            }
+        ]
+    },
+    {
+        "record_number": "114",
+        "record_type": "measure",
+        "title": "PASADENA UNIFIED SCH SPC MEASURE BB",
+        "precincts_total": 94,
+        "precincts_reporting": 94,
+        "precincts_reporting_pct": 1.0,
+        "results": [
+            {
+                "name": "YES",
+                "votes": 84,
+                "vote_pct": 0.32939999999999997,
+                "party": ""
+            },
+            {
+                "name": "NO",
+                "votes": 171,
+                "vote_pct": 0.6706,
+                "party": ""
+            }
+        ]
+    }
+]
