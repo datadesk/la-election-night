@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 "flake8" = "*"
+coverage = "*"
 
 [dev-packages]
 

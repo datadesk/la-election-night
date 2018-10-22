@@ -49,4 +49,4 @@ You can example of how the data is parsed out can be seen [here](test_data/0018n
 
 ### Still TK
 
-* Scrape the data live from the county site with web request. This will be added once officials post the live links.
+* Scrape the data live from the county site with a web request. This will be added once officials post the live links.
