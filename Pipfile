@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 "flake8" = "*"
 coverage = "*"
+twine = "*"
 
 [dev-packages]
 
