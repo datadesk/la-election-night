@@ -14,11 +14,15 @@ class LAElectionsTest(unittest.TestCase):
     data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'test_data')
     ets_files = glob.glob("{}/*.ets".format(data_dir))
 
+    def test_get(self):
+        la_election_night.get()
+
     def test_ets(self):
         for ets in self.ets_files:
-            parser = la_election_night.ETSParser(ets)
-            parser.run()
-            parser.write(os.path.join(self.data_dir, ntpath.basename(ets).replace("ets", "json")))
+            with open(ets, 'r') as fp:
+                parser = la_election_night.ETSParser(fp.read())
+                parser.run()
+                parser.write(os.path.join(self.data_dir, ntpath.basename(ets).replace("ets", "json")))
 
 
 if __name__ == '__main__':

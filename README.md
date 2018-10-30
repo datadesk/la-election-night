@@ -10,14 +10,11 @@ Install the library from PyPI
 $ pipenv install la-county-election-results
 ```
 
-Import the library. Pass it the path to an "ETS" file downloaded from the county's website. An example can be seen [here](test_data/0018nov18-end.ets).
+Import the library. Get the latest data from the live URL. That's it.
 
 ```python
 >>> import la_election_night
->>> ets_path = "/home/me/data/results.ets"
->>> parser = la_election_night.ETSParser(ets_path)
->>> data_dict = parser.run()
->>> print(data_dict)
+>>> la_election_night.get()
 [
     {
         "record_number": "001",
@@ -45,8 +42,3 @@ Import the library. Pass it the path to an "ETS" file downloaded from the county
 ```
 
 You can example of how the data is parsed out can be seen [here](test_data/0018nov18-end.json).
-
-
-### Still TK
-
-* Scrape the data live from the county site with a web request. This will be added once officials post the live links.

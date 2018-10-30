@@ -14,11 +14,9 @@ class ETSParser(object):
     """
     layout_lookup = ETS
 
-    def __init__(self, path):
-        self.path = path
+    def __init__(self, raw_data):
+        self.raw_data = raw_data.split("\n")
         self.parsed_data = None
-        with open(self.path, 'r') as fh:
-            self.raw_data = fh.readlines()
 
     def run(self):
         """
