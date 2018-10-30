@@ -7,7 +7,7 @@ Parse the results file published on election night by the Los Angeles County Reg
 Install the library from PyPI
 
 ```bash
-$ pipenv install la-county-election-results
+$ pipenv install la-election-night
 ```
 
 Import the library. Get the latest data from the live URL. That's it.
