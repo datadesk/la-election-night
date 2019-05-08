@@ -2,12 +2,11 @@ import requests
 from .ets import ETSParser
 
 
-def get():
+def get(ets_url):
     """
-    Get the latest results from the LA County ETS data service.
+    Get the results from the LA County ETS source available at the provided URL.
     """
-    url = "http://rrcc.co.la.ca.us/results/0018nov18.ets"
-    r = requests.get(url)
+    r = requests.get(ets_url)
     raw_data = r.text
     parser = ETSParser(raw_data)
     return parser.run()
