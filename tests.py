@@ -15,7 +15,7 @@ class LAElectionsTest(unittest.TestCase):
     ets_files = glob.glob("{}/*.ets".format(data_dir))
 
     def test_get(self):
-        la_election_night.get()
+        la_election_night.get('http://rrcc.co.la.ca.us/results/0018nov18.ets')
 
     def test_ets(self):
         for ets in self.ets_files:
