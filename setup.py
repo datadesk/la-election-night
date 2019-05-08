@@ -5,8 +5,8 @@ from distutils.core import Command
 
 setup(
     name='la-election-night',
-    version='0.0.2',
-    description="Parse the results file published on election night by the Los Angeles County Registrar-Recorder/County Clerk",
+    version='0.0.3',
+    description="Parse historical and election night result files published by the Los Angeles County Registrar-Recorder/County Clerk",
     author='Los Angeles Times Data Desk',
     author_email='datadesk@latimes.com',
     url='http://www.github.com/datadesk/la-election-night',
