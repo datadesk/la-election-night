@@ -1,8 +1,8 @@
 # la-election-night
 
-Parse the results file published on election night by the Los Angeles County Registrar-Recorder/County Clerk
+Parse historical and election night result files published by the [Los Angeles County Registrar-Recorder/County Clerk](http://rrcc.co.la.ca.us/elect/downrslt.html-ssi).
 
-### Get started
+## Get started
 
 Install the library from PyPI
 
@@ -10,11 +10,11 @@ Install the library from PyPI
 $ pipenv install la-election-night
 ```
 
-Import the library. Get the latest data from the live URL. That's it.
+Import the library. Get the latest data from the URL you provide. That's it.
 
 ```python
 >>> import la_election_night
->>> la_election_night.get()
+>>> la_election_night.get('http://rrcc.co.la.ca.us/results/0018nov18.ets')
 [
     {
         "record_number": "001",
@@ -42,3 +42,7 @@ Import the library. Get the latest data from the live URL. That's it.
 ```
 
 You can example of how the data is parsed out can be seen [here](test_data/0018nov18-end.json).
+
+## License
+
+MIT
