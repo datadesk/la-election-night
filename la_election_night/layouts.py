@@ -193,6 +193,18 @@ ETS = {
         (14, 15, 'party_code'),
         (15, 95, None),
     ],
+    # Party statistics
+    'PC': [
+        (9, 31, None),
+        (32, 40, "registration"),
+        (41, 43, None),
+        (44, 69, "party_name"),
+        (70, 71, None),
+        (72, 80, "ballots_cast"),
+        (81, 83, None),
+        (84, 89, "pct_of_turnout"),
+        (90, 94, None),
+    ],
     # THE END
     'EF': [
         (9, 15, None),
